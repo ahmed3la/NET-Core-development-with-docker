@@ -1,0 +1,14 @@
+d:\Ahmed Ola\Learn\DevOps Cource\NET Core development with docker\core-api\bin\Debug\netcoreapp2.1\core-api.deps.json
+d:\Ahmed Ola\Learn\DevOps Cource\NET Core development with docker\core-api\bin\Debug\netcoreapp2.1\core-api.runtimeconfig.json
+d:\Ahmed Ola\Learn\DevOps Cource\NET Core development with docker\core-api\bin\Debug\netcoreapp2.1\core-api.runtimeconfig.dev.json
+d:\Ahmed Ola\Learn\DevOps Cource\NET Core development with docker\core-api\bin\Debug\netcoreapp2.1\core-api.dll
+d:\Ahmed Ola\Learn\DevOps Cource\NET Core development with docker\core-api\bin\Debug\netcoreapp2.1\core-api.pdb
+d:\Ahmed Ola\Learn\DevOps Cource\NET Core development with docker\core-api\obj\Debug\netcoreapp2.1\core-api.csprojAssemblyReference.cache
+d:\Ahmed Ola\Learn\DevOps Cource\NET Core development with docker\core-api\obj\Debug\netcoreapp2.1\core-api.csproj.CoreCompileInputs.cache
+d:\Ahmed Ola\Learn\DevOps Cource\NET Core development with docker\core-api\obj\Debug\netcoreapp2.1\core-api.RazorAssemblyInfo.cache
+d:\Ahmed Ola\Learn\DevOps Cource\NET Core development with docker\core-api\obj\Debug\netcoreapp2.1\core-api.RazorAssemblyInfo.cs
+d:\Ahmed Ola\Learn\DevOps Cource\NET Core development with docker\core-api\obj\Debug\netcoreapp2.1\core-api.AssemblyInfoInputs.cache
+d:\Ahmed Ola\Learn\DevOps Cource\NET Core development with docker\core-api\obj\Debug\netcoreapp2.1\core-api.AssemblyInfo.cs
+d:\Ahmed Ola\Learn\DevOps Cource\NET Core development with docker\core-api\obj\Debug\netcoreapp2.1\core-api.RazorTargetAssemblyInfo.cache
+d:\Ahmed Ola\Learn\DevOps Cource\NET Core development with docker\core-api\obj\Debug\netcoreapp2.1\core-api.dll
+d:\Ahmed Ola\Learn\DevOps Cource\NET Core development with docker\core-api\obj\Debug\netcoreapp2.1\core-api.pdb

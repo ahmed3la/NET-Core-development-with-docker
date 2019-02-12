@@ -1,0 +1,14 @@
+D:\Ahmed Ola\Learn\DevOps Cource\NET Core development with docker\core-api\bin\Release\netcoreapp2.1\core-api.deps.json
+D:\Ahmed Ola\Learn\DevOps Cource\NET Core development with docker\core-api\bin\Release\netcoreapp2.1\core-api.runtimeconfig.json
+D:\Ahmed Ola\Learn\DevOps Cource\NET Core development with docker\core-api\bin\Release\netcoreapp2.1\core-api.runtimeconfig.dev.json
+D:\Ahmed Ola\Learn\DevOps Cource\NET Core development with docker\core-api\bin\Release\netcoreapp2.1\core-api.dll
+D:\Ahmed Ola\Learn\DevOps Cource\NET Core development with docker\core-api\bin\Release\netcoreapp2.1\core-api.pdb
+D:\Ahmed Ola\Learn\DevOps Cource\NET Core development with docker\core-api\obj\Release\netcoreapp2.1\core-api.csprojAssemblyReference.cache
+D:\Ahmed Ola\Learn\DevOps Cource\NET Core development with docker\core-api\obj\Release\netcoreapp2.1\core-api.csproj.CoreCompileInputs.cache
+D:\Ahmed Ola\Learn\DevOps Cource\NET Core development with docker\core-api\obj\Release\netcoreapp2.1\core-api.RazorAssemblyInfo.cache
+D:\Ahmed Ola\Learn\DevOps Cource\NET Core development with docker\core-api\obj\Release\netcoreapp2.1\core-api.RazorAssemblyInfo.cs
+D:\Ahmed Ola\Learn\DevOps Cource\NET Core development with docker\core-api\obj\Release\netcoreapp2.1\core-api.AssemblyInfoInputs.cache
+D:\Ahmed Ola\Learn\DevOps Cource\NET Core development with docker\core-api\obj\Release\netcoreapp2.1\core-api.AssemblyInfo.cs
+D:\Ahmed Ola\Learn\DevOps Cource\NET Core development with docker\core-api\obj\Release\netcoreapp2.1\core-api.RazorTargetAssemblyInfo.cache
+D:\Ahmed Ola\Learn\DevOps Cource\NET Core development with docker\core-api\obj\Release\netcoreapp2.1\core-api.dll
+D:\Ahmed Ola\Learn\DevOps Cource\NET Core development with docker\core-api\obj\Release\netcoreapp2.1\core-api.pdb
