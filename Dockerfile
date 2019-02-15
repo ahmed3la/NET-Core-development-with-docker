@@ -7,7 +7,7 @@ RUN dotnet restore
 
 COPY . ./
 RUN dotnet publish -c Release -o out
-#RUN dotnet publish --configuration Release --runtime win-x64
+#RUN dotnet publish --configuration Release --runtime win-x64 
 FROM microsoft/dotnet:aspnetcore-runtime AS runtime
 
 WORKDIR /app
